@@ -8,7 +8,27 @@
 
 <br>
 
-### Hey there
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Page Title</title>
+  <style>
+ 
+    h1 {color: Blue;}
+  </style>
+</head>  
+<body>
+
+<h1>Shaker Nor eldin</h1>
+<p>Creative data analyst and a passionate data scientist</p>
+  
+<p>Challenges my daily routine</p>
+<p>Practice is my best friend</p>
+
+</body>
+</html>
+
+
 I'm **Shaker Noreldin**,Creative data analyst and a passionate data scientist with strong background in Mathematics, Statistics. 
 I completed Master in Science, with majors in Mathematics.
 I Studying a diploma in computer Science, with majors in Computer science.
