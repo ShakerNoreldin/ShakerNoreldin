@@ -37,7 +37,10 @@ Check out my<a href="https://github.com/TatevKaren/TatevKaren-data-science-portf
 <img align="left"  width="30px" src="https://cdn2.iconfinder.com/data/icons/social-media-icons-23/800/linkedin-512.png"/> <a href="[https://www.linkedin.com/in/tatev-karen-aslanyan/](https://www.linkedin.com/in/shaker-nor-eldin-8b6582249/)">LinkedIn</a> 
  <br>
 
-<img align="left" alt="Medium" width="100px" src="https://miro.medium.com/max/8976/1*Ra88BZ-CSTovFS2ZSURBgg.png"/> <a href="https://tatev-aslanyan.medium.com/">Medium</a>
+linkedin: https://www.linkedin.com/in/shaker-nor-eldin-8b6582249/
+Whatsapp:01068448613
+Calling:01068448613
+Email:shaker.noreldin@gmail.com
 
 <br>
 <br>
