@@ -16,7 +16,7 @@
 <body>
 
 <h1>Shaker Nor eldin</h1>
-<p>Creative data analyst and a passionate data scientist</p>
+<p>Creative data analyst & a passionate data scientist</p>
   
 <p>Challenges is my daily routine</p>
 <p>Practice is my best friend</p>
