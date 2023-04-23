@@ -1,18 +1,12 @@
 ### Hi there 👋
+<div align="center">
 
-<!--
-**ShakerNoreldin/ShakerNoreldin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaker-nor-eldin-8b6582249/)&nbsp;&nbsp;
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://www.medium.com/@juniorcl)&nbsp;&nbsp;
+[![GitLab Badge](https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white)](https://github.com/ShakerNoreldin))&nbsp;&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:shaker.noreldin@gmail.com)](mailto:clebiomojunior@gmail.com)&nbsp;&nbsp;
 
-Here are some ideas to get you started:
-- 🌱 I’m currently learning Data Science 
-- 👯 I’m looking to collaborate on data science and data analyzing projects as a freelancer or part time or full time contract
-- 💬 Ask me about Mathematics, Data science, statistics, Python, Sql, Pandas, data analzing 
-- 📫 How to reach me: 
-linkedin: https://www.linkedin.com/in/shaker-nor-eldin-8b6582249/
-Whatsapp:01068448613
-Calling:01068448613
-Email:shaker.noreldin@gmail.com
--->
+</div>
 
 ### Hey there
 I'm **Shaker Noreldin**,Creative data analyst and a passionate data scientist with strong background in Mathematics, Statistics. 
