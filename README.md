@@ -13,7 +13,7 @@ I'm **Shaker Noreldin**,Creative data analyst and a passionate data scientist wi
 I completed Master in Science, with majors in Mathematics.
 I Studying a diploma in computer Science, with majors in Computer science.
 . <br>
-Check out my<a href="https://github.com/TatevKaren/TatevKaren-data-science-portfolio"> Data Science Portfolio</a> consisting of my **Case Studies** with **Codes**, **Papers**, **Blogs**, and **Videos** in the field of:
+<!--Check out my<a href="https://github.com/TatevKaren/TatevKaren-data-science-portfolio"> Data Science Portfolio</a> consisting of my **Case Studies** with **Codes**, **Papers**, **Blogs**, and **Videos** in the field of:-->
 
 - **Data Science (ML)** <a href="https://github.com/TatevKaren/data-science-popular-algorithms"> -> <a> 
 - **Data Structures & Algorithms** <a href= "https://github.com/TatevKaren/DataStructuresAlgorithmsCourse"> -> <a>
