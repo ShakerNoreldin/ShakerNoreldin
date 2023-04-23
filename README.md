@@ -12,11 +12,6 @@
 <html>
 <head>
   <!-- <title>Shaker Nor eldin</title>-->
-  <style>
-    body {background-color: powderblue;}
-    h1 {color: red;}
-    p {color: blue;}
-  </style>
 </head>  
 <body>
 
