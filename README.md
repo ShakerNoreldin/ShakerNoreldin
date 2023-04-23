@@ -29,7 +29,7 @@ Check out my<a href="https://github.com/TatevKaren/TatevKaren-data-science-portf
 - **Econometrics** <a href="https://github.com/TatevKaren/econometric-algorithms"> -> <a>
 
 
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif?raw=true" width="500" height="320"/>
+<img align="right" alt="GIF" src="[https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif?raw=true](https://img.freepik.com/free-vector/illustration-social-media-concept_53876-18135.jpg?w=826&t=st=1682230804~exp=1682231404~hmac=311f85f96d4bb683d613835e1f4683d3572da1221ee447e82d38a9e698da6065)" width="500" height="320"/>
 <br>
 
 **Contacts**
