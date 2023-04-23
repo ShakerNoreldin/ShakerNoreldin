@@ -11,23 +11,23 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Page Title</title>
+  <title>Shaker Nor eldin</title>
   <style>
- 
-    h1 {color: Blue;}
+    body {background-color: powderblue;}
+    h1 {color: red;}
+    p {color: blue;}
   </style>
 </head>  
 <body>
 
-<h1>Shaker Nor eldin</h1>
-<p>Creative data analyst and a passionate data scientist</p>
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
   
-<p>Challenges my daily routine</p>
+<p>Challenges is my daily routine</p>
 <p>Practice is my best friend</p>
 
 </body>
 </html>
-
 
 I'm **Shaker Noreldin**,Creative data analyst and a passionate data scientist with strong background in Mathematics, Statistics. 
 I completed Master in Science, with majors in Mathematics.
