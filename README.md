@@ -39,7 +39,9 @@ Check out my<a href="https://github.com/TatevKaren/TatevKaren-data-science-portf
 
 linkedin: https://www.linkedin.com/in/shaker-nor-eldin-8b6582249/
 Whatsapp:01068448613
+  <br>
 Calling:01068448613
+  <br>
 Email:shaker.noreldin@gmail.com
 
 <br>
