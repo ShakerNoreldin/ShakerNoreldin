@@ -34,16 +34,16 @@ Check out my<a href="https://github.com/TatevKaren/TatevKaren-data-science-portf
 
 **Contacts**
  
-<img align="left"  width="30px" src="https://cdn2.iconfinder.com/data/icons/social-media-icons-23/800/linkedin-512.png"/> <a href="[https://www.linkedin.com/in/tatev-karen-aslanyan/](https://www.linkedin.com/in/shaker-nor-eldin-8b6582249/)">LinkedIn</a> 
+<img align="left"  width="30px" src="https://cdn2.iconfinder.com/data/icons/social-media-icons-23/800/linkedin-512.png"/> <a href="[(https://www.linkedin.com/in/shaker-nor-eldin-8b6582249/)]">LinkedIn</a> 
  <br>
 
 linkedin: https://www.linkedin.com/in/shaker-nor-eldin-8b6582249/
+  <br>
 Whatsapp:01068448613
   <br>
 Calling:01068448613
   <br>
 Email:shaker.noreldin@gmail.com
-
 <br>
 <br>
 
@@ -53,12 +53,11 @@ Email:shaker.noreldin@gmail.com
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png"></code>
 
 <br>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TatevKaren)
+#![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TatevKaren)
 
 
 
